@@ -1,0 +1,11 @@
+{
+    "cSpell.words": [
+        "_n_pargs",
+        "Grapher",
+        "networkx"
+    ],
+    "python.pythonPath": "C:\\Users\\azhai\\Miniconda3\\envs\\net_analysis\\python",
+    "python.analysis.extraPaths": [
+        "c:\\users\\azhai\\miniconda3\\envs\\net_analysis\\lib\\site-packages"
+    ]
+}
